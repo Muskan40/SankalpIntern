@@ -85,7 +85,7 @@
   height: 8vh;
   text-align: center;
   font-size: larger;
-  font-family:comic sans ms;
+  font-family:comic sans ms,Times New Roman;
  }  
 input[type=checkbox]{
     display: none;
