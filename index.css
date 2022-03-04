@@ -138,6 +138,7 @@ input[type=checkbox]{
    }
    .intro{
      font-size: large !important;
+       font-family:comic sans ms,Times New Roman !important;
    }
    .services{
      font-size: large !important;
